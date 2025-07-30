@@ -1,0 +1,5 @@
+streamlit
+instaloader
+selenium
+webdriver-manager
+requests
